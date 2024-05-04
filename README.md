@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **laravel**
 
-- 👯 I’m looking to collaborate on **react js projects**
+- 👯 I’m looking to collaborate on **laravel projects**
 
 - 📫 How to reach me **rafflitz99@gmail.com**
 
